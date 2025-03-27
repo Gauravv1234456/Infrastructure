@@ -1,6 +1,1 @@
-provider "aws" {
-  access_key = "test"       # LocalStack default access key
-  secret_key = "test"       # LocalStack default secret key
-  region     = "us-east-1"  # You can use any region LocalStack supports
-  endpoint   = "http://localhost:4566" 
-}
+
